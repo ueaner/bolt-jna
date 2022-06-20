@@ -15,12 +15,6 @@ bolt-jna is Java JNA adapter to Bolt key-value database.
 
 See examples of usage [here](USAGE.md).
 
-## Demo
-
-bolt-jna is used in these applications and libraries:
-
-* [Keylord](http://protonail.com/products/keylord) - cross-platform GUI application for key-value databases.
-
 ## Build
 
 Build process described [here](BUILD.md).
